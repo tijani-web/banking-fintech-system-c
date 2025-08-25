@@ -1,6 +1,9 @@
 Banking & FinTech Management System
 A comprehensive C-based banking system that combines traditional banking features with modern FinTech capabilities, featuring secure user authentication, role-based access, and persistent data storage.
 
+📖 Documentation
+Complete technical documentation is available at: [https://tijani-web.github.io/fintech-docs-ui/]
+
 Features
 🔐 Authentication & Security
 Dual Role System: Separate interfaces for administrators and customers
